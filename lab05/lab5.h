@@ -11,7 +11,7 @@
 //
 //Lab:<05>
 //=================================================================
-
+//lab05 functions are at the bottom.
 #ifndef BST_H
 #define BST_H
 #include <cassert>
